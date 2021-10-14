@@ -2,8 +2,9 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Titre</title>
-            <author>Auteur</title>
+            <title>Épigrammes</title>
+            <author>Martial</title>
+            <editor>Thibault Clérice</editor>
          </titleStmt>
          <publicationStmt>
             <p>Information pour la publication ou la distribution</p>
